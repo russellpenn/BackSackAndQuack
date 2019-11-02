@@ -2,6 +2,11 @@
   "name": "BackSackAndQuack",
   "version": "1.0.0",
   "dependencies": {
+    "dialogflow": "^0.12.2",
+    "express": "^4.17.1",
     "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }
